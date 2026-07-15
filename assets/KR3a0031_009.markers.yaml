@@ -24,6 +24,7 @@ markers:
       ', id: KR3a0031_krp_009-bkkkrnewl3}
   - {type: line-break, offset: 10, content: '', id: KR3a0031_WYG_009-1a04}
   - {type: indent, offset: 10, content: 　　, id: KR3a0031_krp_009-bkkind5}
+  - {type: substitution, offset: 12, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: 'kr:newline', offset: 15, content: '
 
       ', id: KR3a0031_krp_009-bkkkrnewl4}
@@ -68,6 +69,8 @@ markers:
 
       ', id: KR3a0031_krp_009-bkkkrnewl13}
   - {type: line-break, offset: 161, content: '', id: KR3a0031_WYG_009-1b05}
+  - {type: substitution, offset: 167, original: 弑, replacement: 弒, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20771}}
+  - {type: substitution, offset: 177, original: 弑, replacement: 弒, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20771}}
   - {type: 'kr:newline', offset: 182, content: '
 
       ', id: KR3a0031_krp_009-bkkkrnewl14}
@@ -114,6 +117,7 @@ markers:
 
       ', id: KR3a0031_krp_009-bkkkrnewl23}
   - {type: line-break, offset: 304, content: '', id: KR3a0031_WYG_009-2a06}
+  - {type: substitution, offset: 309, original: 弑, replacement: 弒, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20771}}
   - {type: 'kr:newline', offset: 325, content: '
 
       ', id: KR3a0031_krp_009-bkkkrnewl24}
@@ -169,4 +173,4 @@ markers:
 
       ', id: KR3a0031_krp_009-bkkkrnewl35}
   back: []
-hash: sha256:cade43d44e12b726d574c9f14a3932dae8ba58974b887691159146244091cb4d
+hash: sha256:d9793a9e2cbb91fabed6efc3f6b46d8a39b6c52d426367277df175c56976652c
